@@ -1,7 +1,7 @@
 ---
 title: USPTO Economic Research Datasets (UERD) Trademark Assignments
-created: '2021-03-11T09:48:41.811049'
-modified: '2021-03-11T09:48:41.811056'
+created: '2021-03-11T05:48:27.705170'
+modified: '2021-03-11T05:48:27.705177'
 state: active
 type: dataset
 tags:
