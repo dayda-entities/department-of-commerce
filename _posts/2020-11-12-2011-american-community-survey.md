@@ -1,61 +1,62 @@
 ---
-title: 2011 American Community Survey 1-Year PUMS Person File
-created: '2020-11-12T14:45:37.384021'
-modified: '2021-03-11T05:40:31.861029'
+title: 2011 American Community Survey 1-Year Estimates Summary File
+created: '2020-11-12T14:45:33.807453'
+modified: '2021-03-11T05:40:28.247938'
 state: active
 type: dataset
 tags:
-  - Ability To Speak English
   - Acs
   - Age
   - Ancestry
-  - Children
   - Citizenship
-  - Class Of Worker
-  - Disability Status
+  - Demographic
+  - Disability
   - Divorce
+  - Economic
   - Education
-  - Educational Attainment
-  - Female
+  - Employment
+  - Ethnicity
+  - Family Type
   - Fertility
+  - Financial Characteristics
+  - Food Stamps
+  - Grandparents
+  - Grandparents As Caregivers
   - Health Insurance
-  - Hispanic Origin
-  - Hours Worked
-  - Income By Type
+  - Hispanic Or Latino Origin
+  - Homeowner
+  - Household Size
+  - Housing
+  - Income
   - Industry
-  - Language Spoken At Home
-  - Last Week Work Status
-  - Male
+  - Journey To Work
+  - Language
   - Marital Status
-  - Married
-  - Means Of Transportation To Work
-  - Migration
-  - Military Status
-  - Mobility Status
+  - Marriage
+  - Mortgage
+  - Number Of Rooms
   - Occupation
-  - Periods Of Active Duty Military Service
-  - Personal Care Limitation
+  - Owners
+  - Physical Characteristics
   - Place Of Birth
-  - Place Of Work
-  - Poverty Status
+  - Population
+  - Poverty
   - Race
-  - Relationship
-  - School Enrollment And Type Of School
+  - Relationships
+  - Renters
+  - School Enrollment
   - Sex
-  - Single
-  - Time Of Departure For Work
-  - Travel Time To Work
-  - Vehicle Occupancy
-  - Veteran Period Of Service
-  - Weeks Worked
-  - Work Limitation Status
-  - Work Status
-  - Year Of Entry
+  - Snap
+  - Social
+  - Tenure
+  - Veteran Status
+  - Veterans
 groups:
   - Older Adults Health Data Collection
-csv_url: 'http://www2.census.gov/acs2011_1yr/pums/csv_pus.zip'
+csv_url: >-
+  http://www2.census.gov/acs2011_1yr/summaryfile/2011_ACSSF_All_In_1_Giant_File(Experienced-Users-Only)/All_Geographies.zip
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar year 2011.
+A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar year 2011. Available for geographic areas with populations of 65,000 or more.
