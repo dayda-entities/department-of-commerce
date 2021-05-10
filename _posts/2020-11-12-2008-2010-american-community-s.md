@@ -1,60 +1,52 @@
 ---
-title: 2008-2010 American Community Survey 3-Year Estimates Summary File
-created: '2020-11-12T14:45:12.132010'
-modified: '2021-03-11T05:38:43.552607'
+title: 2008-2010 American Community Survey 3-Year PUMS Housing File
+created: '2020-11-12T14:45:14.293781'
+modified: '2021-03-11T05:38:56.856628'
 state: active
 type: dataset
 tags:
   - Acs
-  - Age
-  - Ancestry
-  - Citizenship
-  - Demographic
-  - Divorce
-  - Economic
-  - Education
-  - Employment
-  - Ethnicity
-  - Family Type
-  - Fertility
-  - Financial Characteristics
+  - And Flood Insurance
+  - And Household Relationships
+  - Bedrooms
+  - Condominium Status
+  - Contract Rent Monthly Rent
+  - Cost Of Utilities And Fuels
+  - Family
+  - Family Income
+  - Farm Status And Value
+  - Fire
   - Food Stamps
-  - Grandparents
-  - Grandparents As Caregivers
-  - Health Insurance
-  - Hispanic Origin
-  - Homeowner
-  - Household Size
-  - Housing
-  - Income
-  - Industry
-  - Journey To Work
-  - Language
-  - Marital Status
-  - Marriage
-  - Mortgage
-  - Number Of Rooms
-  - Occupation
-  - Owners
-  - Physical Characteristics
-  - Place Of Birth
-  - Population
-  - Poverty
-  - Race
-  - Relationships
-  - Renters
-  - School Enrollment
-  - Sex
-  - Social
+  - Fuels Used
+  - Gross Rent
+  - Hazard
+  - House Heating Fuel
+  - Household Income
+  - Household Type
+  - Kitchen Facilities
+  - Linguistic Isolation
+  - Meals Included In Rent
+  - Mortgage Status And Selected Monthly Owner Costs
+  - Plumbing Facilities
+  - Presence And Age Of Own Children
+  - Presence Of Subfamilies In Household
+  - Property Value
+  - Real Estate Taxes
+  - Residence State
+  - Rooms
+  - Subfamily
+  - Telephone In Housing Unit
   - Tenure
-  - Veteran Status
-  - Veterans
+  - Units In Structure
+  - Vacancy Status
+  - Vehicles Available
+  - Year Householder Moved Into Unit
+  - Year Structure Built
 groups:
-  - Older Adults Health Data Collection
-csv_url: >-
-  http://www2.census.gov/acs2010_3yr/summaryfile/2008-2010_ACSSF_All_In_2_Giant_Files(Experienced-Users-Only)/All_Geographies.zip
+  - Energy
+csv_url: 'http://www2.census.gov/acs2010_3yr/pums/csv_hus.zip'
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2008-2010. Available for geographic areas with populations of 20,000 or more.
+A nationwide survey that collects information such as type of housing unit, electricity cost, home value, monthly rent, vacancy status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2008-2010.
