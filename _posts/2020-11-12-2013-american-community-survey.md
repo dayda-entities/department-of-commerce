@@ -1,13 +1,14 @@
 ---
-title: 2013 American Community Survey 1-year PUMS Population File
-created: '2020-11-12T14:45:53.562968'
-modified: '2021-03-11T05:41:12.840813'
+title: 2013 American Community Survey 1-year Estimates Summary File
+created: '2020-11-12T14:45:50.721692'
+modified: '2021-03-11T05:40:57.575124'
 state: active
 type: dataset
 tags:
   - Acs
 groups: []
-csv_url: 'http://www2.census.gov/acs2013_1yr/pums/csv_pus.zip'
+csv_url: >-
+  http://www2.census.gov/acs2013_1yr/summaryfile/2013_ACSSF_All_In_1_Giant_File(Experienced-Users-Only)/All_Geographies.zip
 json_url: ''
 layout: post
 
