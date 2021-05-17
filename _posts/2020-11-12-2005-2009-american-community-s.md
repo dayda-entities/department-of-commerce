@@ -1,9 +1,9 @@
 ---
 title: >-
-  2005-2009 American Community Survey 5-Year Estimates Summary File No Tracts or
+  2005-2009 American Community Survey 5-Year Estimates Summary File Tracts and
   Block Groups
-created: '2020-11-12T14:44:46.982505'
-modified: '2021-03-11T05:37:12.290597'
+created: '2020-11-12T14:44:47.124490'
+modified: '2021-03-11T05:37:03.033167'
 state: active
 type: dataset
 tags:
@@ -12,6 +12,7 @@ tags:
   - Ancestry
   - Citizenship
   - Demographic
+  - Disability
   - Divorce
   - Economic
   - Education
@@ -52,13 +53,11 @@ tags:
   - Tenure
   - Veteran Status
   - Veterans
-groups:
-  - Energy
-  - Older Adults Health Data Collection
+groups: []
 csv_url: >-
-  http://www2.census.gov/acs2009_5yr/summaryfile/2005-2009_ACSSF_All_In_2_Giant_Files(Experienced-Users-Only)/All_Geographies_Not_Tracts_Block_Groups.zip
+  http://www2.census.gov/acs2009_5yr/summaryfile/2005-2009_ACSSF_All_In_2_Giant_Files(Experienced-Users-Only)/Tracts_Block_Groups_Only.zip
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2005- 2009. Data available for small geographies. Census tract and block group data are available in another dataset.
+A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2005- 2009. Data available at the  block group level.
