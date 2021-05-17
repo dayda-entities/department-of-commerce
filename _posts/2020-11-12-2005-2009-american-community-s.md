@@ -1,63 +1,51 @@
 ---
-title: >-
-  2005-2009 American Community Survey 5-Year Estimates Summary File Tracts and
-  Block Groups
-created: '2020-11-12T14:44:47.124490'
-modified: '2021-03-11T05:37:03.033167'
+title: 2005-2009 American Community Survey 5-Year PUMS Population File
+created: '2020-11-12T14:44:48.679820'
+modified: '2021-03-11T05:37:04.192396'
 state: active
 type: dataset
 tags:
+  - Ability To Speak English
   - Acs
   - Age
   - Ancestry
   - Citizenship
-  - Demographic
-  - Disability
-  - Divorce
-  - Economic
-  - Education
-  - Employment
-  - Ethnicity
-  - Family Type
+  - Class Of Worker
+  - Educational Attainment
   - Fertility
-  - Financial Characteristics
-  - Food Stamps
-  - Grandparents
-  - Grandparents As Caregivers
-  - Health Insurance
-  - Hispanic Or Latino Origin
-  - Homeowner
-  - Household Size
-  - Housing
-  - Income
+  - Hispanic Origin
+  - Hours Worked
+  - Income By Type
   - Industry
-  - Journey To Work
-  - Language
+  - Language Spoken At Home
+  - Last Week Work Status
   - Marital Status
-  - Marriage
-  - Mortgage
-  - Number Of Rooms
+  - Means Of Transportation To Work
+  - Migration
+  - Military Status
+  - Mobility Status
   - Occupation
-  - Owners
-  - Physical Characteristics
+  - Periods Of Active Duty Military Service
+  - Personal Care Limitation
   - Place Of Birth
-  - Population
-  - Poverty
+  - Place Of Work
+  - Poverty Status
   - Race
-  - Relationships
-  - Renters
-  - School Enrollment
+  - Relationship
+  - School Enrollment And Type Of School
   - Sex
-  - Snap
-  - Social
-  - Tenure
-  - Veteran Status
-  - Veterans
+  - Time Of Departure For Work
+  - Travel Time To Work
+  - Vehicle Occupancy
+  - Veteran Period Of Service
+  - Weeks Worked
+  - Work Limitation Status
+  - Work Status
+  - Year Of Entry
 groups: []
-csv_url: >-
-  http://www2.census.gov/acs2009_5yr/summaryfile/2005-2009_ACSSF_All_In_2_Giant_Files(Experienced-Users-Only)/Tracts_Block_Groups_Only.zip
+csv_url: 'http://www2.census.gov/acs2009_5yr/pums/csv_pus.zip'
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2005- 2009. Data available at the  block group level.
+A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2005-2009.
