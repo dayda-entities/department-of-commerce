@@ -1,53 +1,16 @@
 ---
-title: 2014 American Community Survey 1-Year PUMS Housing File
-created: '2020-11-12T14:45:35.668313'
-modified: '2021-03-11T05:40:28.515533'
+title: 2014 American Community Survey 1-year Estimates Summary File
+created: '2020-11-12T14:45:50.863515'
+modified: '2021-03-11T05:41:10.290380'
 state: active
 type: dataset
 tags:
   - Acs
-  - And Flood Insurance
-  - And Household Relationships
-  - Bedrooms
-  - Condominium Status
-  - Contract Rent Monthly Rent
-  - Cost Of Utilities And Fuels
-  - Family
-  - Family Income
-  - Farm Status And Value
-  - Fire
-  - Food Stamps
-  - Fuels Used
-  - Gross Rent
-  - Hazard
-  - Homeownership
-  - House Heating Fuel
-  - Household Income
-  - Household Type
-  - Kitchen Facilities
-  - Linguistic Isolation
-  - Meals Included In Rent
-  - Mortgage Status And Selected Monthly Owner Costs
-  - Plumbing Facilities
-  - Presence And Age Of Own Children
-  - Presence Of Subfamilies In Household
-  - Property Value
-  - Real Estate Taxes
-  - Renters
-  - Residence State
-  - Rooms
-  - Subfamily
-  - Telephone In Housing Unit
-  - Tenure
-  - Units In Structure
-  - Vacancy Status
-  - Vehicles Available
-  - Year Householder Moved Into Unit
-  - Year Structure Built
 groups: []
-csv_url: 'http://www2.census.gov/programs-surveys/acs/data/pums/2014/1-Year/csv_hus.zip'
+csv_url: >-
+  http://www2.census.gov/programs-surveys/acs/summary_file/2014/data/1_year_entire_sf/All_Geographies.zip
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar year 2014.
+National survey that collects data from a sample of the resident population in the United States. Housing units in every county in the United States and municipio in Puerto Rico, including institutional and non-institutional group quarters, are included in the sample.
