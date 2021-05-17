@@ -1,13 +1,13 @@
 ---
-title: 2012 American Community Survey 1-year PUMS Population File
-created: '2020-11-12T14:45:43.090015'
-modified: '2021-03-11T05:40:47.885918'
+title: 2012 American Community Survey 1-year PUMS Housing File
+created: '2020-11-12T14:45:42.894015'
+modified: '2021-03-11T05:40:38.092664'
 state: active
 type: dataset
 tags:
   - Acs
 groups: []
-csv_url: 'http://www2.census.gov/acs2012_1yr/pums/csv_pus.zip'
+csv_url: 'http://www2.census.gov/acs2012_1yr/pums/csv_hus.zip'
 json_url: ''
 layout: post
 
