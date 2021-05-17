@@ -1,15 +1,16 @@
 ---
-title: 2012 American Community Survey 1-year PUMS Housing File
-created: '2020-11-12T14:45:42.894015'
-modified: '2021-03-11T05:40:38.092664'
+title: 2012 American Community Survey 1-year Estimates Summary File
+created: '2020-11-12T14:45:42.651341'
+modified: '2021-03-11T05:40:47.698862'
 state: active
 type: dataset
 tags:
   - Acs
 groups: []
-csv_url: 'http://www2.census.gov/acs2012_1yr/pums/csv_hus.zip'
+csv_url: >-
+  http://www2.census.gov/acs2012_1yr/summaryfile/2012_ACSSF_All_In_1_Giant_File(Experienced-Users-Only)/All_Geographies.zip
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar year 2010. Available for geographic areas with populations of 65,000 or more.
+National survey that collects data from a sample of the resident population in the United States. Housing units in every county in the United States and municipio in Puerto Rico, including institutional and non-institutional group quarters, are included in the sample.
