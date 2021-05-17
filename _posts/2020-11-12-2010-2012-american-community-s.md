@@ -1,14 +1,13 @@
 ---
-title: 2010-2012 American Community Survey 3-year Estimates Summary File
-created: '2020-11-12T14:45:27.597823'
-modified: '2021-03-11T05:39:57.232661'
+title: 2010-2012 American Community Survey 3-year PUMS Population File
+created: '2020-11-12T14:45:27.646081'
+modified: '2021-03-11T05:39:59.017652'
 state: active
 type: dataset
 tags:
   - Acs
 groups: []
-csv_url: >-
-  http://www2.census.gov/acs2012_3yr/summaryfile/2010-2012_ACSSF_All_In_1_Giant_Files(Experienced-Users-Only)/All_Geographies.zip
+csv_url: 'http://www2.census.gov/acs2012_3yr/pums/csv_pus.zip'
 json_url: ''
 layout: post
 
