@@ -1,13 +1,13 @@
 ---
-title: 2011-2013 American Community Survey 3-year PUMS Population File
-created: '2020-11-12T14:45:33.736607'
-modified: '2021-03-11T05:40:16.362895'
+title: 2011-2013 American Community Survey 3-year PUMS Housing File
+created: '2020-11-12T14:45:33.492044'
+modified: '2021-03-11T05:40:25.679786'
 state: active
 type: dataset
 tags:
   - Acs
 groups: []
-csv_url: 'http://www2.census.gov/acs2013_3yr/pums/csv_pus.zip'
+csv_url: 'http://www2.census.gov/acs2013_3yr/pums/csv_hus.zip'
 json_url: ''
 layout: post
 
