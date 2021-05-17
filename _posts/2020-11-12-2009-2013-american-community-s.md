@@ -1,15 +1,18 @@
 ---
-title: 2009-2013 American Community Survey 5-year PUMS Population File
-created: '2020-11-12T14:45:24.088639'
-modified: '2021-03-11T05:39:28.676084'
+title: >-
+  2009-2013 American Community Survey 5-year Estimates Summary File No Tracts
+  and Block Groups
+created: '2020-11-12T14:45:21.615634'
+modified: '2021-03-11T05:39:30.295500'
 state: active
 type: dataset
 tags:
   - Acs
 groups: []
-csv_url: 'http://www2.census.gov/acs2013_5yr/pums/csv_pus.zip'
+csv_url: >-
+  http://www2.census.gov/acs2013_5yr/summaryfile/2009-2013_ACSSF_All_In_2_Giant_Files(Experienced-Users-Only)/All_Geographies_Not_Tracts_Block_Groups.tar.gz
 json_url: ''
 layout: post
 
 ---
-National survey that collects data from a sample of the resident population in the United States. Housing units in every county in the United States and municipio in Puerto Rico, including institutional and non-institutional group quarters, are included in the sample.
+A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar years 2009-2013. Data available for small geographies. Census tract and block group data are available in another dataset.
