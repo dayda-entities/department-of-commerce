@@ -1,7 +1,7 @@
 ---
 title: Federal Spectrum Inventory
-created: '2021-03-11T09:48:09.738676'
-modified: '2021-03-11T09:48:09.738683'
+created: '2021-03-11T05:47:54.153166'
+modified: '2021-03-11T05:47:54.153173'
 state: active
 type: dataset
 tags:
