@@ -1,62 +1,53 @@
 ---
-title: 2011 American Community Survey 1-Year Estimates Summary File
-created: '2020-11-12T14:45:33.807453'
-modified: '2021-03-11T05:40:28.247938'
+title: 2011 American Community Survey 1-Year PUMS Housing File
+created: '2020-11-12T14:45:34.402077'
+modified: '2021-03-11T05:40:18.098410'
 state: active
 type: dataset
 tags:
   - Acs
-  - Age
-  - Ancestry
-  - Citizenship
-  - Demographic
-  - Disability
-  - Divorce
-  - Economic
-  - Education
-  - Employment
-  - Ethnicity
-  - Family Type
-  - Fertility
-  - Financial Characteristics
+  - And Flood Insurance
+  - And Household Relationships
+  - Bedrooms
+  - Condominium Status
+  - Contract Rent Monthly Rent
+  - Cost Of Utilities And Fuels
+  - Family
+  - Family Income
+  - Farm Status And Value
+  - Fire
   - Food Stamps
-  - Grandparents
-  - Grandparents As Caregivers
-  - Health Insurance
-  - Hispanic Or Latino Origin
-  - Homeowner
-  - Household Size
-  - Housing
-  - Income
-  - Industry
-  - Journey To Work
-  - Language
-  - Marital Status
-  - Marriage
-  - Mortgage
-  - Number Of Rooms
-  - Occupation
-  - Owners
-  - Physical Characteristics
-  - Place Of Birth
-  - Population
-  - Poverty
-  - Race
-  - Relationships
+  - Fuels Used
+  - Gross Rent
+  - Hazard
+  - Homeownership
+  - House Heating Fuel
+  - Household Income
+  - Household Type
+  - Kitchen Facilities
+  - Linguistic Isolation
+  - Meals Included In Rent
+  - Mortgage Status And Selected Monthly Owner Costs
+  - Plumbing Facilities
+  - Presence And Age Of Own Children
+  - Presence Of Subfamilies In Household
+  - Property Value
+  - Real Estate Taxes
   - Renters
-  - School Enrollment
-  - Sex
-  - Snap
-  - Social
+  - Residence State
+  - Rooms
+  - Subfamily
+  - Telephone In Housing Unit
   - Tenure
-  - Veteran Status
-  - Veterans
-groups:
-  - Older Adults Health Data Collection
-csv_url: >-
-  http://www2.census.gov/acs2011_1yr/summaryfile/2011_ACSSF_All_In_1_Giant_File(Experienced-Users-Only)/All_Geographies.zip
+  - Units In Structure
+  - Vacancy Status
+  - Vehicles Available
+  - Year Householder Moved Into Unit
+  - Year Structure Built
+groups: []
+csv_url: 'http://www2.census.gov/acs2011_1yr/pums/csv_hus.zip'
 json_url: ''
 layout: post
 
 ---
-A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar year 2011. Available for geographic areas with populations of 65,000 or more.
+A nationwide survey that collects information such as age, race, income, commute time to work, home value, veteran status, and other data. Data from the American Community Survey and the Puerto Rico Community Survey were collected during calendar year 2011.
