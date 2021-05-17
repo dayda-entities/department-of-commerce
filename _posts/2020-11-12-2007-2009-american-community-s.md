@@ -1,57 +1,50 @@
 ---
-title: 2007-2009 American Community Survey 3-Year Estimates
-created: '2020-11-12T14:45:06.330209'
-modified: '2021-03-11T05:38:22.342854'
+title: 2007-2009 American Community Survey 3-Year PUMS Housing File
+created: '2020-11-12T14:45:07.695518'
+modified: '2021-03-11T05:38:14.303032'
 state: active
 type: dataset
 tags:
   - Acs
-  - Age
-  - Ancestry
-  - Citizenship
-  - Demographic
-  - Divorce
-  - Economic
-  - Education
-  - Employment
-  - Ethnicity
-  - Family Type
-  - Fertility
-  - Financial Characteristics
+  - And Flood Insurance
+  - And Household Relationships
+  - Bedrooms
+  - Condominium Status
+  - Contract Rent Monthly Rent
+  - Cost Of Utilities And Fuels
+  - Family
+  - Family Income
+  - Farm Status And Value
+  - Fire
   - Food Stamps
-  - Grandparents
-  - Grandparents As Caregivers
-  - Hispanic Origin
-  - Homeowner
-  - Household Size
-  - Housing
-  - Income
-  - Industry
-  - Journey To Work
-  - Language
-  - Marital Status
-  - Marriage
-  - Mortgage
-  - Number Of Rooms
-  - Occupation
-  - Owners
-  - Physical Characteristics
-  - Place Of Birth
-  - Population
-  - Poverty
-  - Race
-  - Relationships
-  - Renters
-  - School Enrollment
-  - Sex
-  - Social
+  - Fuels Used
+  - Gross Rent
+  - Hazard
+  - House Heating Fuel
+  - Household Income
+  - Household Type
+  - Kitchen Facilities
+  - Linguistic Isolation
+  - Meals Included In Rent
+  - Mortgage Status And Selected Monthly Owner Costs
+  - Plumbing Facilities
+  - Presence And Age Of Own Children
+  - Presence Of Subfamilies In Household
+  - Property Value
+  - Real Estate Taxes
+  - Residence State
+  - Rooms
+  - Subfamily
+  - Telephone In Housing Unit
   - Tenure
-  - Veteran Status
-  - Veterans
+  - Units In Structure
+  - Vacancy Status
+  - Vehicles Available
+  - Year Householder Moved Into Unit
+  - Year Structure Built
 groups:
   - Energy
-csv_url: >-
-  http://www2.census.gov/acs2009_3yr/summaryfile/2007-2009_ACSSF_All_In_1_Giant_File(Experienced-Users-Only)/All_Geographies.zip
+csv_url: 'http://www2.census.gov/acs2007_2009_3yr/pums/csv_hus.zip'
 json_url: ''
 layout: post
 
