@@ -1,7 +1,7 @@
 ---
 title: USPTO Economic Research Datasets (UERD) Trademark Case Files Dataset
-created: '2021-03-11T00:46:47.456735'
-modified: '2021-03-11T00:46:47.456779'
+created: '2021-03-11T09:48:38.399586'
+modified: '2021-03-11T09:48:38.399593'
 state: active
 type: dataset
 tags:
