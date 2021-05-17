@@ -1,52 +1,60 @@
 ---
-title: 2009 American Community Survey 1-Year PUMS Housing File
-created: '2020-11-12T14:45:24.331715'
-modified: '2021-03-11T05:39:29.691277'
+title: 2009 American Community Survey 1-Year PUMS Population File
+created: '2020-11-12T14:45:24.711280'
+modified: '2021-03-11T05:39:39.332465'
 state: active
 type: dataset
 tags:
+  - Ability To Speak English
   - Acs
-  - And Flood Insurance
-  - And Household Relationships
-  - Bedrooms
-  - Condominium Status
-  - Contract Rent Monthly Rent
-  - Cost Of Utilities And Fuels
-  - Family
-  - Family Income
-  - Farm Status And Value
-  - Fire
-  - Food Stamps
-  - Fuels Used
-  - Gross Rent
-  - Hazard
-  - Homeownership
-  - House Heating Fuel
-  - Household Income
-  - Household Type
-  - Kitchen Facilities
-  - Linguistic Isolation
-  - Meals Included In Rent
-  - Mortgage Status And Selected Monthly Owner Costs
-  - Plumbing Facilities
-  - Presence And Age Of Own Children
-  - Presence Of Subfamilies In Household
-  - Property Value
-  - Real Estate Taxes
-  - Renters
-  - Residence State
-  - Rooms
-  - Subfamily
-  - Telephone In Housing Unit
-  - Tenure
-  - Units In Structure
-  - Vacancy Status
-  - Vehicles Available
-  - Year Householder Moved Into Unit
-  - Year Structure Built
+  - Age
+  - Ancestry
+  - Children
+  - Citizenship
+  - Class Of Worker
+  - Disability Status
+  - Divorce
+  - Education
+  - Educational Attainment
+  - Female
+  - Fertility
+  - Health Insurance
+  - Hispanic Origin
+  - Hours Worked
+  - Income By Type
+  - Industry
+  - Language Spoken At Home
+  - Last Week Work Status
+  - Male
+  - Marital Status
+  - Married
+  - Means Of Transportation To Work
+  - Migration
+  - Military Status
+  - Mobility Status
+  - Occupation
+  - Periods Of Active Duty Military Service
+  - Personal Care Limitation
+  - Place Of Birth
+  - Place Of Work
+  - Poverty Status
+  - Race
+  - Relationship
+  - School Enrollment And Type Of School
+  - Sex
+  - Single
+  - Time Of Departure For Work
+  - Travel Time To Work
+  - Vehicle Occupancy
+  - Veteran Period Of Service
+  - Weeks Worked
+  - Work Limitation Status
+  - Work Status
+  - Year Of Entry
 groups:
   - Energy
-csv_url: 'http://www2.census.gov/acs2009_1yr/pums/csv_hus.zip'
+  - Older Adults Health Data Collection
+csv_url: 'http://www2.census.gov/acs2009_1yr/pums/csv_pus.zip'
 json_url: ''
 layout: post
 
